@@ -1,0 +1,20 @@
+.cor{
+     color:blue;   /* usamoa .(ponto final) para chamar class */
+} 
+
+#h1-cor{
+    color:red;   /* usamos #(hashtag) para chamar id */
+}
+
+#p-font{
+    /* para mudar a fonte usamos fonte-family */
+    font-family: cursive;
+    /* para mudarmos o tamanho da fonte usamos size+tamanho da fonte */
+    font-size: 50px;
+    /* para mudarmos o peso da font usamos font-size  */
+    font-weight: bolder;
+    /* para mudarmos o estilo da fonte usamos font-style */
+   font-style: italic;
+   /* para mudarmos o lugar onde vai estar o texte colocamos text-align */
+   text-align: center;
+}

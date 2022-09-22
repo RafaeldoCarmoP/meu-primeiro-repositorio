@@ -1,0 +1,17 @@
+body{background-color: rgb(248, 230, 158);}
+.align{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+      font-size: 20px;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 30px;
+}
+.parent{
+    text-align: center;
+}
